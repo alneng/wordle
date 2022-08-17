@@ -1,4 +1,5 @@
-**Wordle Backend** in Java
+# Wordle Backend
+**Made with java**
 
 Changing the "word" for the game
 1. Edit Main.java:8 and replace the string with your desired word
